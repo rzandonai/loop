@@ -1,3 +1,6 @@
 [submodule "tr"]
   path = tr
   url = git@github.com:rzandonai/tr.git
+[submodule "tr1"]
+	path = tr1
+	url = https://github.com/rzandonai/tr.git
